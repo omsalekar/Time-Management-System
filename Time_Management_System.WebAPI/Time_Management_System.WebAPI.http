@@ -1,0 +1,6 @@
+@Time_Management_System.WebAPI_HostAddress = http://localhost:5024
+
+GET {{Time_Management_System.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
