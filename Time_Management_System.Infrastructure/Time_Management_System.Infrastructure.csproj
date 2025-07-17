@@ -10,4 +10,8 @@
     <ProjectReference Include="..\Time_Management_System.Domain\Time_Management_System.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Brokers\" />
+  </ItemGroup>
+
 </Project>
